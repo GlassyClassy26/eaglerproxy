@@ -46,8 +46,8 @@ export const config: Config = {
       originBlacklist: null,
     },
     server: {
-      host: "127.0.0.1",
-      port: 1111,
+      host: "etceteraworld.aternos.me",
+      port: 20595,
     },
     tls: undefined,
   },
